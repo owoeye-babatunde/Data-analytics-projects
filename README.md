@@ -66,12 +66,6 @@ If you have git and you know how to use it, you can also clone the repository in
 
 ---
 
-## Authors ✍️
-
-I'm Dr. Milaan Parmar and I have written this tutorial. If you think you can add/correct/edit and enhance this tutorial you are most welcome🙏
-
-See [github's contributors page](https://github.com/milaan9/93_Python_Data_Analytics_Projects/graphs/contributors) for details.
-
 If you have trouble with this tutorial please tell me about it by [Create an issue on GitHub](https://github.com/milaan9/93_Python_Data_Analytics_Projects/issues/new) <img alt="PNG" width="30px"  src="https://user-images.githubusercontent.com/48193918/124397909-86858c80-dd30-11eb-803c-9650d9c4a927.png" /></h3> and I'll make this tutorial better. This is probably the best choice if you had trouble following the tutorial, and something in it should be explained better. You will be asked to create a GitHub account if you don't already have one.
 
 If you like this tutorial, please [give it a ⭐ star](https://github.com/milaan9/93_Python_Data_Analytics_Projects).
